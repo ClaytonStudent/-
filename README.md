@@ -7,7 +7,7 @@ AlphaGo Zero algorithm ideas and architecture can simply realize the artificial 
 2. We design a self-training AI model using Monte Carlo Tree Search method and policy network. 
 3. We store the best model after self-training. User can play against it and and feel the power AI.
 
-### Project structure
+## Project structure
 
 Board: Game board initilization, piece location and board update.
 Game: Game logic and rules
